@@ -1,4 +1,4 @@
-# programa-o-p-e-d# Simulador Paralelo e Distribuído de Escalonamento de Processos
+# Simulador Paralelo e Distribuído de Escalonamento de Processos
 
 Um simulador completo de escalonamento de processos desenvolvido em Python com interface web usando Streamlit. Permite testar e comparar diferentes algoritmos de escalonamento (FCFS, SJF, Round Robin e Prioridade Preemptiva).
 
