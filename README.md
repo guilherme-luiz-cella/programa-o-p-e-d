@@ -328,6 +328,3 @@ Este projeto é fornecido como material educacional.
 
 Simulador de Escalonamento de Processos - 2024
 
----
-
-Dica: Sempre teste com números pequenos primeiro para entender como cada algoritmo funciona antes de rodar simulações maiores!
